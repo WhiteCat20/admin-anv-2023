@@ -1,0 +1,31 @@
+.bg-green-anv {
+  background-color: #3CB371;
+}
+
+.brand-link {
+  color: #fff;
+  border-bottom: none;
+}
+
+.nav-header {
+  color: #fff;
+  font-weight: 700;
+}
+
+.nav-item {
+  color: #fff;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.active {
+  background-color: #fff;
+  border-radius: 0.25rem;
+}
+.active .nav-link {
+  color: #3CB371 !important;
+}
+
+/*# sourceMappingURL=custom-scss.css.map */
