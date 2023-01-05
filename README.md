@@ -4,7 +4,9 @@ Follow these steps to run the project on your local.
 
 1.  Clone the repository
 
-    git clone [link]
+```bash
+git clone https://github.com/WhiteCat20/admin-anv-2023.git
+```
 
 2.  Go to the project folder
 
@@ -16,6 +18,7 @@ Follow these steps to run the project on your local.
 
 4.  Run the Project
 
-    php artisan serve
-or
+        php artisan serve
+
+    or
     npm start
