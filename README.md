@@ -26,7 +26,7 @@ git clone https://github.com/WhiteCat20/admin-anv-2023.git
    php artisan serve
 ```
 
-    or
+or
 
 ```bash
     npm start
